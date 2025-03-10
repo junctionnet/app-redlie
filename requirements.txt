@@ -1,0 +1,12 @@
+boto3
+pandas
+openpyxl
+pytest
+numpy
+botocore
+aws_lambda_powertools
+alembic
+psycopg2-binary
+sqlalchemy
+elasticsearch
+#dotenv
